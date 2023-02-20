@@ -1,0 +1,322 @@
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GarmentsSquare.exe.config
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GarmentsSquare.exe
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GarmentsSquare.pdb
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.Form1.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.exe
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.pdb
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GarmentsSquare.exe.config
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GarmentsSquare.exe
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GarmentsSquare.pdb
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.AssemblyReference.cache
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.SuggestedBindingRedirects.cache
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.Form1.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.Properties.Resources.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.ManagerHome.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.GenerateResource.cache
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.CoreCompileInputs.cache
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.exe
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.pdb
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.EmployeeHome.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.RiderHome.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GarmentsSquare.exe.config
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GarmentsSquare.exe
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GarmentsSquare.pdb
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.AssemblyReference.cache
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.SuggestedBindingRedirects.cache
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.Form1.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.Properties.Resources.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.EmployeeHome.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.ManagerHome.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.RiderHome.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.GenerateResource.cache
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.CoreCompileInputs.cache
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.exe
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.pdb
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddEmployee.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddEmployee.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddProduct.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddProduct.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.EmployeeHome.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.ManagerHome.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.RiderHome.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddEmployee.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddProduct.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucInventory.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucUpdateProduct.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GarmentsSquare.exe.config
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GarmentsSquare.exe
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GarmentsSquare.pdb
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.Form1.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.Properties.Resources.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.EmployeeHome.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.ManagerHome.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.RiderHome.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddEmployee.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddProduct.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucInventory.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucManageEmployees.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucUpdateProduct.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.GenerateResource.cache
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.CoreCompileInputs.cache
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.exe
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.pdb
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucUpdateEmployee.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucManageEmployees.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucUpdateEmployee.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucManageOrder.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucViewOrders.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucManageOrder.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucViewOrders.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucInventory.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucManageEmployees.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucManageOrder.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucUpdateEmployee.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucUpdateProduct.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucViewOrders.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddShop.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddShop.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddShop.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucGenerateReport.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucGenerateReport.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucGenerateReport.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\BouncyCastle.Crypto.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.barcodes.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.commons.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.forms.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.io.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.kernel.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.layout.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.pdfa.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.sign.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.styledxmlparser.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.svg.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Newtonsoft.Json.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Buffers.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Memory.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Numerics.Vectors.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.ValueTuple.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\BouncyCastle.Crypto.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.barcodes.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.commons.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.forms.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.io.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.kernel.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.layout.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.pdfa.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.sign.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.styledxmlparser.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.svg.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Newtonsoft.Json.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Buffers.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Memory.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Numerics.Vectors.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.ValueTuple.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.CopyComplete
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucPlaceOrder_1.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucPlaceOrder_1.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\BouncyCastle.Crypto.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.barcodes.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.commons.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.forms.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.io.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.kernel.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.layout.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.pdfa.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.sign.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.styledxmlparser.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.svg.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Options.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Newtonsoft.Json.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Buffers.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Memory.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Numerics.Vectors.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.ValueTuple.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\BouncyCastle.Crypto.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.barcodes.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.commons.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.forms.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.io.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.kernel.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.layout.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.pdfa.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.sign.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.styledxmlparser.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.svg.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Options.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Newtonsoft.Json.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Buffers.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Memory.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Numerics.Vectors.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.ValueTuple.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.CopyComplete
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucSelectRider.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucPlaceOrder_2.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucSelectRider.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucPlaceOrder_2.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAssignedOrders.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAssignedOrders.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucPlaceOrder_1.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucPlaceOrder_2.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucSelectRider.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.barcodes.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.commons.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.forms.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.io.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.kernel.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.layout.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.pdfa.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.sign.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.svg.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.barcodes.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.commons.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.forms.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.io.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.kernel.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.layout.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.pdfa.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.sign.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\itext.svg.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.csproj.CopyComplete
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAssignedOrders.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GMap.NET.Core.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.ucManageShop.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\EntityFramework.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\EntityFramework.SqlServer.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GMap.NET.Core.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SqlClient.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SQLite.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Security.Principal.Windows.dll
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\EntityFramework.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\EntityFramework.SqlServer.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SqlClient.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SQLite.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Security.Principal.Windows.xml
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.ucManageShop.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\EntityFramework.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\EntityFramework.SqlServer.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GMap.NET.Core.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GMap.NET.WindowsForms.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SqlClient.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SQLite.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SQLite.EF6.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SQLite.Linq.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Security.Principal.Windows.dll
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\EntityFramework.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\EntityFramework.SqlServer.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SqlClient.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Data.SQLite.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\bin\Debug\System.Security.Principal.Windows.xml
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.ucManageShop.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.MapFrmAddLocation.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.AddToCart.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.MapFrmAddLocation.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucUpdateShop.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.AddToCart.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.MapShopRoute.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucUpdateShop.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.MapShopRoute.resources
+D:\Abdurrehman 2021-CS-44\3rd Semester\DSA LAB\Final_Term_Project\ProjectV2\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddRider.resources
+D:\BS CS\SEMESTER 03\FinalTermProject\Final Project\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddRider.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.AddToCart.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.MapFrmAddLocation.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UIForms.MapShopRoute.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucAddRider.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucManageRider.resources
+C:\Users\Administrator\Documents\GitHub\cs261f22finalpid07\GarmentsSquare\GarmentsSquare\obj\Debug\GarmentsSquare.UserControls.ucUpdateShop.resources

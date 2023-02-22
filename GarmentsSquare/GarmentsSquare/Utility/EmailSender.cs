@@ -12,8 +12,8 @@ namespace GarmentsSquare.Utility
 {
     internal class EmailSender
     {
-        static private string fromMail = "hamzarasheed19961@gmail.com";
-        static private string fromPwd = "efgmnucymiafyvgj";
+        static private string fromMail = "mail@gmail.com";
+        static private string fromPwd = "password";
 
 
         // this email for when new employee/ rider added
